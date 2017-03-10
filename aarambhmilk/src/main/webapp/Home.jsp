@@ -41,22 +41,22 @@
 						<h2>Create Users</h2>
 						<ul>
 							<li><a href="#">Admin</a></li>
-							<li><a href="#">Supplier</a></li>
+							<li><a href="SupplieRegistration.jsp">Supplier</a></li>
 							<li><a href="#">Customer</a></li>
 
 						</ul>
 					</li>
 					<li>
-						<h2>All Products</h2>
-						<ul>
-							<li><a href="#">Milk</a></li>
-							<li><a href="#">Butter</a></li>
-							<li><a href="#">Pannir</a></li>
-							<li><a href="#">Milk Powder</a></li>
-							<li><a href="#">Curd</a></li>
-							<li><a href="#">Ghee</a></li>
-						</ul>
-					</li>
+					<h2>All Products</h2>
+					<ul>
+						<li><a href="Milk.jsp">Milk</a></li>
+						<li><a href="Butter.jsp">Butter</a></li>
+						<li><a href="Pannir.jsp">Pannir</a></li>
+						<li><a href="MilkPowder.jsp">Milk Powder</a></li>
+						<li><a href="Curd.jsp">Curd</a></li>
+						<li><a href="Ghee.jsp">Ghee</a></li>
+					</ul>
+				</li>
 
 				</ul>
 			</div>
